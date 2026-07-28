@@ -85,3 +85,5 @@ machine_condition_monitoring/
 
 ## License
 This project is developed for educational purposes.
+DEMO VIDEO
+https://drive.google.com/file/d/1jL3jzy9ncg_Byyrkngo4VksenQk5G0Gh/view?usp=sharing
